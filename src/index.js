@@ -15,4 +15,6 @@ connect.send('VKWebAppInit');
 // Подробнее про сервис воркеры можно почитать тут — https://vk.cc/8MHpmT
 // registerServiceWorker();
 
+console.log('anton pidor');
+
 ReactDOM.render(<App />, document.getElementById('root'));
