@@ -5,15 +5,17 @@
   "main": "index.js",
   "scripts": {
     "start": "cross-env PORT=10888 react-scripts start",
-    "build": "react-scripts build && mv build/ docs",
-    "surge-deploy": "npm run build && surge ./build --domain kozodoi-club-hack.surge.sh"
+    "build": "react-scripts build",
+    "surge-deploy": "npm run build && surge ./build --domain kozodoi-club-hack.surge.sh",
+    "deploy": "gh-pages -d build"
   },
   "keywords": [],
-  "homepage": "./",
+  "homepage": "https://kansleeer.github.io/hotfix/",
   "author": "",
   "license": "MIT",
   "devDependencies": {
     "cross-env": "^5.2.0",
+    "gh-pages": "^3.1.0",
     "react-hot-loader": "^4.9.0",
     "react-scripts": "^3.1.2",
     "surge": "^0.21.3"
