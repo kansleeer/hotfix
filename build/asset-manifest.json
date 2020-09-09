@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/hotfix/static/css/main.a1107254.chunk.css",
-    "main.js": "/hotfix/static/js/main.f5982cb6.chunk.js",
-    "main.js.map": "/hotfix/static/js/main.f5982cb6.chunk.js.map",
+    "main.js": "/hotfix/static/js/main.641ec301.chunk.js",
+    "main.js.map": "/hotfix/static/js/main.641ec301.chunk.js.map",
     "runtime-main.js": "/hotfix/static/js/runtime-main.5928ce89.js",
     "runtime-main.js.map": "/hotfix/static/js/runtime-main.5928ce89.js.map",
     "static/js/2.84911def.chunk.js": "/hotfix/static/js/2.84911def.chunk.js",
     "static/js/2.84911def.chunk.js.map": "/hotfix/static/js/2.84911def.chunk.js.map",
     "index.html": "/hotfix/index.html",
-    "precache-manifest.cefcca097992cbe3573c5dbbd8828ce9.js": "/hotfix/precache-manifest.cefcca097992cbe3573c5dbbd8828ce9.js",
+    "precache-manifest.f382e6ce2639d81d34f8a8ea1c1aa46a.js": "/hotfix/precache-manifest.f382e6ce2639d81d34f8a8ea1c1aa46a.js",
     "service-worker.js": "/hotfix/service-worker.js",
     "static/css/main.a1107254.chunk.css.map": "/hotfix/static/css/main.a1107254.chunk.css.map",
     "static/js/2.84911def.chunk.js.LICENSE.txt": "/hotfix/static/js/2.84911def.chunk.js.LICENSE.txt",
@@ -28,6 +28,6 @@
     "static/js/runtime-main.5928ce89.js",
     "static/js/2.84911def.chunk.js",
     "static/css/main.a1107254.chunk.css",
-    "static/js/main.f5982cb6.chunk.js"
+    "static/js/main.641ec301.chunk.js"
   ]
 }
