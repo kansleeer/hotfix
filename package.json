@@ -9,6 +9,7 @@
     "surge-deploy": "npm run build && surge ./build --domain kozodoi-club-hack.surge.sh"
   },
   "keywords": [],
+  "homepage": "./",
   "author": "",
   "license": "MIT",
   "devDependencies": {
